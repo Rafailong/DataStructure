@@ -50,6 +50,8 @@
     <Compile Include="BinaryTree\Tree.cs" />
     <Compile Include="Lists\DoubleLinkedList.cs" />
     <Compile Include="Lists\Item.cs" />
+    <Compile Include="Lists\OrderedList.cs" />
+    <Compile Include="Lists\Pilota.cs" />
     <Compile Include="Lists\Tests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
